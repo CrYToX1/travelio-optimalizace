@@ -22,7 +22,6 @@ a {
 }
 
 /* Hlavička */
-
 .header {
     position: sticky;
     top: 0;
@@ -61,7 +60,6 @@ a {
 }
 
 /* Hero */
-
 .hero {
     position: relative;
     height: 600px;
@@ -99,7 +97,6 @@ a {
 }
 
 /* Tlačítka */
-
 .btn {
     display: inline-block;
     padding: 14px 32px;
@@ -134,13 +131,11 @@ a {
 }
 
 /* Úvod */
-
 .intro {
     padding: 50px 20px 10px;
 }
 
 /* Destinace */
-
 .destinations {
     padding: 50px 20px 80px;
 }
@@ -223,7 +218,6 @@ a {
 }
 
 /* O nás */
-
 .about {
     background-color: #f2f8fb;
     padding: 80px 0;
@@ -242,9 +236,6 @@ a {
 .about-title {
     font-size: 36px;
     margin-bottom: 20px;
-}
-
-.about-title {
     color: #000000;
 }
 
@@ -278,7 +269,6 @@ a {
 }
 
 /* Kontakt */
-
 .contact {
     padding: 80px 20px;
 }
@@ -287,9 +277,6 @@ a {
     font-size: 36px;
     margin-bottom: 30px;
     text-align: center;
-}
-
-.contact-title {
     color: #000000;
 }
 
@@ -339,27 +326,7 @@ a {
     font-weight: 600;
 }
 
-/* Newsletter */
-
-.newsletter-box {
-    margin: 40px auto;
-    padding: 30px;
-    max-width: 600px;
-    background-color: #0a7ea4;
-    color: #ffffff;
-    border-radius: 12px;
-    text-align: center;
-}
-
-.newsletter-box input {
-    padding: 10px;
-    width: 70%;
-    border: none;
-    border-radius: 6px;
-}
-
 /* Responzivita */
-
 @media (max-width: 800px) {
     .hero {
         height: 450px;
